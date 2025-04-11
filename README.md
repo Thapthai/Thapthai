@@ -4,7 +4,7 @@ Hi 👋 My name is Thapthai Rattananusarak
 Web Developer
 -------------
 
-Web Developer - LANNA AGRO INDUSTRY CO., LTD. (LACO) - PHP, JavaScript- System Analyst.
+Full Stack Web Developer - PHP, JavaScript- System Analyst.
 
 * 🌍  I'm based in Chinag Mai
 
